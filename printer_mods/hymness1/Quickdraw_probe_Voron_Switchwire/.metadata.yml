@@ -1,0 +1,18 @@
+cad:
+- CAD/Quickdraw_for_VSW.step
+description: Detachable magnetic probe with docking system for VSW
+images:
+- Pictures/quickdraw_SW_probe.png
+- Pictures/quickdraw_SW_remix.png
+- Pictures/SW_Y_travel.png
+mod_version: 1
+printer_compatibility:
+- VSW
+stl:
+- STLs/Dock_Arm_Endblock_Quickdraw_VSW.stl
+- STLs/Dock_Quickdraw_VSW.stl
+- STLs/Dock_Quickdraw_VSW_adjustable.stl
+- STLs/Dock_Spacer_Quickdraw_VSW.stl
+- STLs/Drop-In-Probe-Attachment_Quickdraw_VSW.stl
+- STLs/Probe_Quickdraw_VSW.stl
+title: Quickdraw probe Voron Switchwire

@@ -1,0 +1,15 @@
+cad: []
+description: Modified MiniSB to use a Rapido hotend
+images: []
+mod_version: 1
+printer_compatibility:
+- V0.2
+- V1.8
+- V2.4
+- VSW
+- VT
+stl:
+- STLs/FS_Hotend_Mount_Phaetus_Rapido.stl
+- STLs/[a]_MiniSB_Cowling_Rapido_Multibody_Logo_x1.stl
+- STLs/[a]_MiniSB_Cowling_Rapido_x1.stl
+title: MiniSB_Rapido

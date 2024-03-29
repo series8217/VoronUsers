@@ -1,0 +1,15 @@
+cad: []
+description: M3 square and hex nuts for Voron0 1515 frame
+images:
+- IMG1.jpg
+- IMG3.jpg
+- IMG2.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- LDO/HexNut_1515.stl
+- LDO/SquareNut_1515.stl
+- MakerBeam/HexNut_1515.stl
+- MakerBeam/SquareNut_1515.stl
+title: V0 1515 T-nut

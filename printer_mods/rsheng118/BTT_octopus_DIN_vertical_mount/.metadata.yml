@@ -1,0 +1,14 @@
+cad: []
+description: DIN vertical mount for Big Tech Tree Octopus board
+images:
+- img/mount.jpg
+- img/spacer.jpg
+- img/back.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- STL/BTT_octopus_DIN_mount_A.stl
+- STL/BTT_octopus_DIN_mount_B.stl
+- STL/spacer_x4.stl
+title: BTT octopus DIN vertical mount

@@ -1,0 +1,27 @@
+cad:
+- CAD/Stealthburner_Printhead_Dragon_UHF.stp
+- CAD/Stealthburner_Printhead_Dragon_UHF_mini.stp
+description: This mod adds a tool cartridge for the Phaetus Dragon UHF and Phaetus
+  Dragon UHF mini hotend
+discord_username: emjay276
+images:
+- images/back.png
+- images/back_uhf.png
+- images/back_uhf_mini.png
+- images/cable_channel.png
+- images/cross_section.png
+- images/front.jpg
+- images/front_uhf.png
+- images/front_uhf_mini.png
+- images/hotend_installation.jpg
+mod_version: 1
+printer_compatibility:
+- VT
+- V2.4
+stl:
+- STL/UHF/SB_Dragon_UHF_TH_Front.stl
+- STL/UHF/SB_Dragon_UHF_TH_Rear.stl
+- STL/UHF/[a]_Stealthburner_Body_Dragon_UHF.stl
+- STL/UHF_mini/SB_Dragon_UHF_mini_TH_Front.stl
+- STL/UHF_mini/SB_Dragon_UHF_mini_TH_Rear.stl
+title: Stealthburner Phaetus Dragon UHF and Phaetus Dragon UHF mini

@@ -1,0 +1,28 @@
+cad:
+- STEPfiles/Hinge_panel_left.step
+- STEPfiles/Hinge_panel_right.step
+- STEPfiles/Tophat_Part_back_left.step
+- STEPfiles/Tophat_Part_back_right.step
+description: Simple hinge for V0 Tophat
+images:
+- Images/Zoom_open.jpg
+- Images/TopHathinge_render2.png
+- Images/Zoom_closed.jpg
+- Images/Tophat_open.jpg
+- Images/TopHathinge_render.png
+- Images/Tophat_closed.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- Hinge_panel_left_2.5mm.stl
+- Hinge_panel_left_2mm.stl
+- Hinge_panel_left_3mm.stl
+- Hinge_panel_right_2.5mm.stl
+- Hinge_panel_right_2mm.stl
+- Hinge_panel_right_3mm.stl
+- Lower_Corner_adapted_1_and_3_Clip_x2.stl
+- Lower_Corner_adapted_2_and_4_Clip_x2.stl
+- Tophat_Part_back_left.stl
+- Tophat_Part_back_right.stl
+title: Tophat Hinge V0

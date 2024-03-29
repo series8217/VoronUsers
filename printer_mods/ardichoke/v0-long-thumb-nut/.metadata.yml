@@ -1,0 +1,12 @@
+cad:
+- CAD/bed_thumb_nut.step
+description: Taller thumb nuts for V0 bed
+images:
+- images/part.jpg
+- images/installed.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- STLs/[a]_bed_thumb_nut_x3.stl
+title: V0 Long Thumb Nut

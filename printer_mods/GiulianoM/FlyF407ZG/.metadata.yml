@@ -1,0 +1,13 @@
+cad:
+- Fly-F407ZG-Mount-v3.f3d
+description: 'Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG'
+images:
+- Fly-F407ZG-Printed.jpg
+- Fly-F407ZG-Mounted.jpg
+- FlyF407ZG.PNG
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- Fly-F407ZG-Mount-v3.stl
+title: Fly F407ZG Mount

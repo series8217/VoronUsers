@@ -1,0 +1,19 @@
+cad:
+- CAD/Dragon_AB_4020_1.step
+- CAD/Rapido_AB_4020_2.step
+- CAD/RevoVoron_AB_4020.step
+description: Improved Dragon and Rapido toolhead for stock Afterburner with 4020 fan
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- VT
+stl:
+- STLs/ABBN_4020_Dragon_Front.stl
+- STLs/ABBN_4020_Rapido_Back.stl
+- STLs/ABBN_4020_Rapido_Front.stl
+- STLs/ABBN_4020_REVO_Voron_Back.stl
+- STLs/ABBN_4020_REVO_Voron_Front.stl
+title: AB-BN for Stock Afterburner (4020)

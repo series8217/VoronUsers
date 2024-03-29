@@ -1,0 +1,14 @@
+cad:
+- CAD/Filter_Cage.step
+- CAD/Fan_Mounting.step
+- CAD/HEPA_Filter.step
+description: "Filter case with fan\xB4s"
+images:
+- Images/1.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- STLs/HEPA_Fan_mounting.stl
+- STLs/HEPA_Filter_Cage.stl
+title: Hepa Filter

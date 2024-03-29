@@ -1,0 +1,18 @@
+cad: []
+description: A set of 2020-mounted cable guards to organize and dress the wiring on
+  your build
+images:
+- Images/annotated.jpg
+- Images/edge-clamp.png
+- Images/combination.png
+- Images/cable-mount.png
+- Images/dressed.jpg
+- Images/detail.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- STL/Combination-Clamp-and-Ramp-350mm.stl
+- STL/DIN-Rail-Cable-Mount-350mm.stl
+- STL/Edge-2020-Cable-Clamp.stl
+title: Voron 2.4 cable clamps

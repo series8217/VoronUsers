@@ -1,0 +1,19 @@
+cad:
+- CAD/2.4_Backplates_v1.f3d
+- CAD/2.4_Backplates_v1.step
+description: Backplates for your Voron 2.4 that block hot air out of your bedfans
+  from blowing onto your ACM panels to (slightly) improve airflow and temps. Also
+  a nice way to showoff Voron branding and the serial of your printer.
+discord_username: ferdimac
+images:
+- Images/2.4_Backplates.PNG
+- Images/2.4_Backplates_1.jpg
+- Images/2.4_Backplates_2.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4r2
+stl:
+- STL/2.4_Backplate_250.stl
+- STL/2.4_Backplate_300.stl
+- STL/2.4_Backplate_350.stl
+title: 2.4 Bedfan Backplates

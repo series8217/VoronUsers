@@ -1,0 +1,22 @@
+cad: []
+description: An articulating mount for the offical Raspberry Pi 7inch touch screen
+images:
+- Images/display_front.jpg
+- Images/display_vertical.jpg
+- Images/cable_vertical.jpg
+- Images/cable_flat.jpg
+- Images/mount_flat.jpg
+- Images/display_tilted.jpg
+- Images/mount_vertical.jpg
+- Images/display_flat.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- STL/swing_arm_lg_a.stl
+- STL/swing_arm_lg_b.stl
+- STL/swing_arm_sm_x2.stl
+- STL/voron_2.4_7in_pi_base.stl
+- STL/voron_2.4_lcd_mount_foot_a.stl
+- STL/voron_2.4_lcd_mount_foot_b.stl
+title: Raspberry Pi 7inch Display Mount

@@ -1,11 +1,21 @@
 MGN12 X axis
 ============
 
+**Note:** Voron Trident officially uses a slightly improved version of this
+mod. It is suggested to use the X axis parts from Trident instead.
+https://github.com/VoronDesign/Voron-Trident/tree/main/STLs/Gantry/X_Axis
+
+---
+
 This replaces the dual MGN9H rails on the V2.4 X axis with a single MGN12H
 rail.  The belt is directly clamped to the MGN12 block by the carriage.
 
-The stock PL-08N probe is not supported as it is too long.  Use one of the
-alternatives listed below.
+The stock PL-08N probe _might_ be too long to fit.  Recommended alternatives
+are listed below.
+
+As an option, the `x_carriage_frame_right_endstop.stl` allows mounting
+the X endstop switch on the carriage, which is useful on an umbilical cable
+setup.
 
 Thanks to joshmurrah, hartk, and everyone else who helped out in one way or
 another.
@@ -20,10 +30,10 @@ required:
 - 1x M3x40 SHCS
 - 4x M3x8 __BHCS__ (or 2x BHCS and 2x SHCS)
 
-Supported probes:
+Recommended probes:
 - Omron TL-Q5MC2 (use M3x25 or M3x30 screws)
 - Panasonic GL-18HB/18HLB (use M3x25 or M3x30 screws)
-- Panasonic GX-H15B/HL15B (use the 9mm probe bracket and M3x16 screws)
+- Panasonic GX-H15B/HL15B (use the 9mm probe bracket, and M3x16 or M3x20 screws)
 
 Instructions
 ------------
@@ -58,3 +68,17 @@ Images
 ![Carriage mounting](Images/carriage_mounting.png)
 
 ![Photo](Images/photo.jpg)
+
+Changelog
+---------
+
+### 2021-07-26
+- Fixed magnet position for Hall effect endstop. Both halves need to be
+  reprinted.
+
+### 2021-03-28
+- Added option for mounting X endstop on the carriage.
+- Updated readme to note that stock PL-08N probes _might_ fit.
+
+### 2021-03-21
+- Initial release

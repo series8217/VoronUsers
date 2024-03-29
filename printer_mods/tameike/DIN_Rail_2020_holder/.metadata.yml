@@ -1,0 +1,10 @@
+cad:
+- DIN_rail_2020_holder.f3d
+description: Attaching DIN Rails to 2020
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- DIN_rail_2020_holder.stl
+title: Din Rail 2020 Holder

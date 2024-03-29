@@ -1,0 +1,13 @@
+cad:
+- STEPs/LED_mount.step
+description: Low profile mount for led bar lights
+images:
+- Images/FromAbove.jpg
+- Images/FromBelow.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- STLs/LED_Mount_A.stl
+- STLs/LED_Mount_B.stl
+title: LED Bar Mounts

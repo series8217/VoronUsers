@@ -1,0 +1,28 @@
+cad:
+- STEPs/Voron_Panel_Trim_300mm.step
+- STEPs/Voron_Panel_Trim_350mm.step
+- STEPs/Voron_Panel_Trim_250mm.step
+description: Clip-on frame to stiffen and seal front door panels when using modified
+  hinges.
+images:
+- Images/door_latch.jpg
+- Images/right_door.jpg
+- Images/full_front_view.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- STLs/250mm_angle_frame_1_x2.stl
+- STLs/250mm_angle_frame_2_x2.stl
+- STLs/250mm_straight_frame_long_x2.stl
+- STLs/250mm_straight_frame_short_x4.stl
+- STLs/300mm_angle_frame_1_x2.stl
+- STLs/300mm_angle_frame_2_x2.stl
+- STLs/300mm_straight_frame_long_x2.stl
+- STLs/300mm_straight_frame_short_x4.stl
+- STLs/350mm_angle_frame_1_x2.stl
+- STLs/350mm_angle_frame_2_x2.stl
+- STLs/350mm_straight_frame_long_x2.stl
+- STLs/350mm_straight_frame_short_x4.stl
+- STLs/extended_door_latch_x2.stl
+title: Clip-On Front Door Frame

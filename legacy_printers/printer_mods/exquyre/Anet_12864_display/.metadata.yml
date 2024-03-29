@@ -1,0 +1,13 @@
+cad: []
+description: Case for Anet 12864 LCD display
+images:
+- Anet_12864_display.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+stl:
+- Anet_12864_front.stl
+- Anet_12864_rear.stl
+title: Anet 12864 Display

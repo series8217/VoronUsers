@@ -1,0 +1,16 @@
+cad:
+- LED END CAP.STEP
+- LED_DUAL_MOUNT.STEP
+- LED_END_CAP_WIRE_EXIT.STEP
+description: Mounts for Dual LED Bar
+images:
+- Dual LED Picture.jpg
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+stl:
+- LED_DUAL_MOUNT.STL
+- LED_END_CAP.STL
+- LED_END_CAP_WIRE_EXIT.STL
+title: Dual LED Light Mount

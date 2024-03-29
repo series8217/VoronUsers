@@ -1,0 +1,10 @@
+cad: []
+description: DUET IR Probe Mount
+images:
+- ir_adapter.jpg
+mod_version: 1
+printer_compatibility:
+- V2.2
+stl:
+- V2.2_IR_Probe_Mount.stl
+title: IR Probe Mount

@@ -1,0 +1,23 @@
+cad:
+- F3D/CableGator.f3d
+description: A cable comb for simplifying and tidying wire harnesses for printers
+  with drag chains
+images:
+- Images/StylishView.png
+- Images/Assembly1.png
+- Images/Assembly2.png
+- Images/Assembly3.png
+- Images/Assembly4.png
+- Images/LayingWires.png
+- Images/CHOMP.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+- V1.8
+- V2.4
+- VSW
+- VT
+stl:
+- STLs/Voron-CableGator-Lower-Jaw.stl
+- STLs/Voron-CableGator-Upper-Jaw.stl
+title: CableGator Cable Comb

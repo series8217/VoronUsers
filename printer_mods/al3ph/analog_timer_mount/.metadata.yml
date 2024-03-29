@@ -1,0 +1,9 @@
+cad: []
+description: A skirt mount for analog timer
+images: []
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- analog_timer_mount.stl
+title: Analog Timer Mount

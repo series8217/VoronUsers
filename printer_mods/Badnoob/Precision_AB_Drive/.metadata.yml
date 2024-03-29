@@ -1,0 +1,16 @@
+cad: []
+description: Changes the gearing for the AB drives to improve both resolution and
+  torque, with a strenthened frame.
+images:
+- reduction_overview.jpg
+- ABcloseup.jpg
+- reduction.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- left_drive_frame_lower_x1_rev_awh3.stl
+- left_drive_frame_upper_x1_rev_awh3.stl
+- right_drive_frame_lower_x1_rev_awh3.stl
+- right_drive_frame_upper_x1_rev_awh3.stl
+title: Precision AB Drive

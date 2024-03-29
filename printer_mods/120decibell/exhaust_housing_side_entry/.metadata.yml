@@ -1,0 +1,18 @@
+cad:
+- CAD/exhaust_housing_side_entry.f3d
+description: Exhaust housing with dual cover screws and single or dual side entry
+  filament paths.
+images:
+- images/side_housing_view1.png
+- images/side_housing_view2.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VT
+stl:
+- STL/exhaust_filter_housing.stl
+- STL/[a]_exhaust_housing_insert_plug.stl
+- STL/[a]_exhaust_housing_insert_thread.stl
+- STL/[a]_filter_access_cover.stl
+title: Side entry exhaust housing

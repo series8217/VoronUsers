@@ -1,0 +1,25 @@
+cad:
+- STEP/base.step
+- STEP/cover-empty.step
+- STEP/cover-light.step
+- STEP/cover-load.step
+- STEP/cover-preheat.step
+- STEP/lock.step
+description: Buttons in the skirt to execute gcode
+images:
+- build_image_1.jpg
+- build_image_2.jpg
+- explode-plan.png
+- installed_view.jpg
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+stl:
+- STL/base.stl
+- STL/cover-empty.stl
+- STL/cover-light.stl
+- STL/cover-load.stl
+- STL/cover-preheat.stl
+- STL/lock.stl
+title: Gcode Buttons

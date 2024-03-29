@@ -1,0 +1,11 @@
+cad: []
+description: Out of the way corner mounted picam
+images:
+- Images/TheMountingPoint.jpg
+- Images/TheView.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- VoronZPiCamMount11.stl
+title: Picam corner mount

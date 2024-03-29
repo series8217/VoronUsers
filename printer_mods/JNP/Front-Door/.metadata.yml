@@ -1,0 +1,15 @@
+cad:
+- CAD/Handle_Mini_Front.step
+- CAD/Door_Frame.step
+- CAD/Door_Latch_x2.step
+description: Door in a frame
+images:
+- Images/1.jpg
+- Images/2.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- STLs/Front_Door_Frame.stl
+- STLs/Handle_Mini_front.stl
+title: Front Door

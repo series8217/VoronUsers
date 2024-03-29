@@ -1,0 +1,13 @@
+cad: []
+description: Corner brackets preventing rotation of the extrusions, and stiffening
+  the joints.  Also covers the Z-belt hole for improved aesthetics
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.1
+stl:
+- corner_bracket_left_logo.stl
+- corner_bracket_left_nologo.stl
+- corner_bracket_right_logo.stl
+- corner_bracket_right_nologo.stl
+title: Corner Brackets

@@ -1,0 +1,11 @@
+cad: []
+description: New extended legs to raise the printer up a tiny bit more
+images:
+- Images/1.jpg
+mod_version: 1
+printer_compatibility:
+- V0.1
+stl:
+- STLs/[a]_Foot_Front_Extended_x2.STL
+- STLs/[a]_Foot_Rear_Extended_x2.STL
+title: Voron0 ExtendedLegs

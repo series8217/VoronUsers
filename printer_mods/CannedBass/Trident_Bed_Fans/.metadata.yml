@@ -1,0 +1,12 @@
+cad:
+- CAD/5015_Bed_Fan_Mount_Trident.step
+- CAD/5015_Bed_Fan_Mount_Trident.f3d
+description: Bed fans for Trident
+images:
+- Images/trident_bed_fans.jpeg
+mod_version: 1
+printer_compatibility:
+- VT
+stl:
+- STL/Mounting_Plate.stl
+title: Trident Bed Fans

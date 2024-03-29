@@ -1,0 +1,25 @@
+cad:
+- cad/Orbiter-Clockwork.step
+description: A clockwork adaptor for the Orbiter v1.5 Extruder with full integration
+  into the Afterburner. Includes a filament quick release lever for simple filament
+  loading and unloading.
+images:
+- docs/images/Orbiter-Clockwork-Main.png
+- docs/images/Orbiter_Clockwork_Module-Back_Right.png
+- docs/images/Orbiter_Clockwork_Module-Back_Left.png
+- docs/images/Orbiter_Clockwork_Module-Left_Side.png
+- docs/images/Orbiter_Clockwork_Module-Right_Side.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- VT
+stl:
+- stl/Chain_Anchor-Voron_2.4.stl
+- stl/Chain_Anchor_SwitchWire.stl
+- stl/Clockwork_Adaptor_Back.stl
+- stl/Clockwork_Adaptor_Front.stl
+- stl/[a]_Connector_Cover.stl
+- stl/[a]_Filament_release_lever.stl
+title: Orbiter Clockwork Mount

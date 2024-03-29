@@ -1,0 +1,18 @@
+cad: []
+description: SW plate for enclosure
+images:
+- Images/assembled1.jpg
+- Images/printed_pieces.jpg
+- Images/SW_plate_rendered.jpg
+- Images/SW_backwall_plate.jpg
+- Images/base_inserts.jpg
+mod_version: 1
+printer_compatibility:
+- VSW
+stl:
+- STL/WITCHWIRE_base.stl
+- STL/[a]_backplate_and_drillguide.stl
+- STL/[a]_SW_badge.stl
+- STL/[a]_Voron_badge.stl
+- STL/Optional/[a]_nolcd_grill_mount.stl
+title: Switchwire Wall Plate

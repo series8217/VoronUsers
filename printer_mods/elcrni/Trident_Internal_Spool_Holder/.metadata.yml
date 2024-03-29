@@ -1,0 +1,26 @@
+cad:
+- CAD/Trident_internal_spool_holder_001_v32.step
+description: Internal spool holder for 300 and 350 Tridents. Supports full size 1kg
+  spool
+images:
+- Images/2.jpg
+- Images/TISP.jpg
+- Images/4.jpg
+- Images/5.jpg
+- Images/6.jpg
+- Images/3.jpg
+- Images/1.jpg
+mod_version: 1
+printer_compatibility:
+- VT
+stl:
+- STL/PTFE_guide_top.stl
+- STL/Trident_Internal_Spool___back_foot_.stl
+- STL/Trident_Internal_Spool___front_foot_.stl
+- STL/Trident_Internal_Spool___middle_Section_.stl
+- STL/Trident_Internal_Spool___PTFE_guide_x2_.stl
+- STL/Trident_Internal_Spool___roller_back_x4_.stl
+- STL/Trident_Internal_Spool___roller_front_x4_.stl
+- STL/Trident_Internal_Spool___spacer_back_x2_.stl
+- STL/Trident_Internal_Spool___spacer_front_x2_.stl
+title: Trident Internal Spool Holder

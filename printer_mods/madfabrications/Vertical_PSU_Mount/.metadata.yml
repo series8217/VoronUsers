@@ -1,0 +1,10 @@
+cad: []
+description: Mounts the PSU vertically on the DIN rails
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- PsuMountBottom.stl
+- PsuMountSpring.stl
+title: Vertical PSU Mount

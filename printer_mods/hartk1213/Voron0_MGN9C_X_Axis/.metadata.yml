@@ -1,0 +1,14 @@
+cad:
+- CAD/MGN9C-V0.step
+description: This mod, replaces the stock MGN7H for MGN9C on the V0
+images:
+- Images/carraige.png
+- Images/x_axis.png
+mod_version: 1
+printer_compatibility:
+- V0.1
+stl:
+- STLs/MGN9_1515_rail_guide_x2.stl
+- STLs/x_carriage_miniaftb-MGN9C_x1.stl
+- STLs/[a]_X_Endstop_Bumper_MGN9C_x1.stl
+title: Voron0 MGN9C X Axis

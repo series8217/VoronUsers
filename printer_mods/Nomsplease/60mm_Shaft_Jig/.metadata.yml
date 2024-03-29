@@ -1,0 +1,10 @@
+cad:
+- 60mm_Shaft_Jig_v2.step
+description: Simple jig for cutting and grinding 60mm Z shafts
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- 60mm_Shaft_Jig.stl
+title: 60mm Shaft Jig

@@ -1,0 +1,21 @@
+cad: []
+description: V0 Belts Holder
+images:
+- Images/bh7.jpg
+- Images/bh10.jpg
+- Images/bh1.png
+- Images/bh3.png
+- Images/bh2.png
+- Images/bh6.png
+- Images/bh5.png
+- Images/bh4.png
+- Images/bh9.jpg
+- Images/bh8.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- STL/belts_holder_bar_x2.stl
+- STL/belts_holder_down_x1.stl
+- STL/belts_holder_up_x1.stl
+title: V0 Belts holder

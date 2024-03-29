@@ -1,0 +1,13 @@
+cad: []
+description: Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal
+  for Gates idlers.
+images:
+- shoulder_bolts_and_prints.jpeg
+- cross_section.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- '[a]_z_tensioner_left_x2_9mm.stl'
+- '[a]_z_tensioner_right_x2_9mm.stl'
+title: V2.4 Z-Idler Shoulder Bolt Mod

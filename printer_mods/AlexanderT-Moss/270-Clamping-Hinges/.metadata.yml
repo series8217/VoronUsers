@@ -1,0 +1,22 @@
+cad:
+- CAD/270-Clamping-Hinge.f3d
+- CAD/270-Clamping-Hinge.step
+description: Simple 270 degree hinges that clamp to the front panels instead of using
+  VHB or drilled holes
+images:
+- Images/IMG_0310.png
+- Images/270-Clamping-Hinges-Assembly.gif
+- Images/Logo-Variation-2.png
+- Images/Logo-Variation-0.png
+- Images/Logo-Variation-1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- STLs/face_plate_bottom.stl
+- STLs/face_plate_embossed_logo.stl
+- STLs/face_plate_no_logo.stl
+- STLs/face_plate_through_logo.stl
+- STLs/side_mount.stl
+- STLs/side_mount_brimed.stl
+title: 270 Clamping Hinges

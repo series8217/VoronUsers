@@ -1,0 +1,20 @@
+cad:
+- CAD/Bowden_Guide.step
+description: Bowden tube guide and CANBUS wire support
+images:
+- IMAGES/Short.jpg
+- IMAGES/Tube1.jpg
+- IMAGES/chirpy.jpg
+- IMAGES/Tube_Guide.png
+- IMAGES/Dokuu.jpg
+- IMAGES/chirpy2.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VT
+stl:
+- STL/Long_Arm.stl
+- STL/Mount.stl
+- STL/Short_Arm.stl
+title: Bowden Tube Guide

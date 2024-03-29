@@ -1,0 +1,13 @@
+cad: []
+description: Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for
+  V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers.
+images:
+- media/pw_nema17.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+stl:
+- STL/VORON_Pocketwatch_Nema17_parts_Main_Body.stl
+- STL/VORON_Pocketwatch_Nema17_parts_Motor_Plate.stl
+- STL/VORON_Pocketwatch_Nema17_parts_mounting_bracket.stl
+title: Pocketwatch Nema 17

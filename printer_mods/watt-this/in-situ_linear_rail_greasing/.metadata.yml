@@ -1,0 +1,20 @@
+cad:
+- ./CAD/greasing_concept.step
+description: A modification that allow lubrication of the linear reals while fully
+  assembled.
+discord_username: Jan_P
+images:
+- ./IMG/after_install.png
+- ./IMG/attach_syringe.png
+- ./IMG/in_situ_drilling_operation.png
+- ./IMG/in_situ_regreasing.png
+- ./IMG/materials.png
+- ./IMG/ventilated_screws.png
+- ./IMG/voron-regreasing-concept.png
+- ./IMG/y_axis_lubrication_screw.png
+- ./IMG/z_axis_lubrication_screw.png
+mod_version: 1
+printer_compatibility:
+- V2.4r2
+stl: []
+title: In Situ Linear Carriage Block Lubrication

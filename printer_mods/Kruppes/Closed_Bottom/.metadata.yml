@@ -1,0 +1,23 @@
+cad: []
+description: Modified printed parts and panel to fully enclose V0.
+images:
+- pictures/fancy_bottom.png
+- Fancy_Panel/fancy_dimensions.png
+- pictures/side_view.png
+- pictures/back_view.png
+- pictures/simple_bottom.png
+- pictures/back_photo.jpg
+- pictures/bottom_photo.jpg
+- Simple_Panel/simple_dimensions.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- Common_STLs/Back_Lip.stl
+- Common_STLs/Skirt.stl
+- Fancy_Panel/[a]_Foot_Back_x2.stl
+- Fancy_Panel/[a]_Foot_Front_x2.stl
+- Simple_Panel/[a]_Footback_L_x1.stl
+- Simple_Panel/[a]_Footback_x1.stl
+- Simple_Panel/[a]_Footfront_x2.stl
+title: Encosed Bottom

@@ -1,0 +1,15 @@
+cad: []
+description: Corner panel clip with an internal cable path.
+images:
+- corner_panel_clip_cp.png
+- corner_panel_clip_cp2.png
+- corner_panel_clip_cp.gif
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- corner_panel_clip_7_5mm.stl
+- corner_panel_clip_bottom_3_5mm.stl
+- corner_panel_clip_top_4mm.stl
+- midspan_panel_clip_7_5mm.stl
+title: Corner panel clip w. cable

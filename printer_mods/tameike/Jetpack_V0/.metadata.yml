@@ -1,0 +1,9 @@
+cad: []
+description: Attach Jetpack to V0 frame
+images: []
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- Jetpack_main_body_1515.stl
+title: Jetpack V0 base

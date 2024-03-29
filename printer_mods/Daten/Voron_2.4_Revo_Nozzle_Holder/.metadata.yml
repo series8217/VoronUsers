@@ -1,0 +1,23 @@
+cad:
+- CAD/Revo_Nozzle_v12.step
+description: A skirt case for the Revo hotends to reside R1 and R2
+images:
+- Images/Finished_Open.jpg
+- Images/Open.png
+- Images/Finished_Closed.jpg
+- Images/Completed.png
+- Images/AllSizes.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- STL/side_skirt_a_250_revo_R1.stl
+- STL/side_skirt_a_250_revo_R2.stl
+- STL/side_skirt_a_300_revo_R1.stl
+- STL/side_skirt_a_300_revo_R2.stl
+- STL/side_skirt_a_350_revo_R1.stl
+- STL/side_skirt_a_350_revo_R2.stl
+- STL/[a]_side_skirt_a_250_insert.stl
+- STL/[a]_side_skirt_a_300_insert.stl
+- STL/[a]_side_skirt_a_350_insert.stl
+title: Revo hotend skirt case

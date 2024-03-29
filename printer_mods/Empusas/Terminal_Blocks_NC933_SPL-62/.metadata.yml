@@ -1,0 +1,13 @@
+cad: []
+description: Mounts for Terminal Blocks NC933 and SPL-62 from AliExpress
+images:
+- IMG_2334.png
+- IMG_2333.png
+- IMG_2335.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- NC-933_Clip.stl
+- SPL-62_Clip.stl
+title: Mounts for Terminal Blocks NC933 SPL-62

@@ -1,0 +1,16 @@
+cad: 
+- CAD/3mm_Back_Corner_modded.f3d
+description: Minimalistic backplate for cooler motors and electronics
+images:
+- img/DSC_2957.JPG
+- img/DSC_2960.JPG
+- img/DSC_2959.jpg
+- img/Slicer_pic.png
+- img/CAD_pic.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- microback_left.stl
+- microback_right.stl
+title: V0 Micro Backplate

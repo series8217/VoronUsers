@@ -1,0 +1,28 @@
+cad:
+- CAD/C17-EXT.step
+description: Replaces standard filter with new HEPA Crabon and 120mm fan V1.1
+images:
+- JPG/IMG_1.png
+- JPG/IMG_2.png
+- JPG/IMG_3.png
+- JPG/IMG_7.png
+- JPG/IMG_6.png
+- JPG/IMG_4.png
+- JPG/IMG_5.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VSW
+- VT
+stl:
+- STLs/1_Filter_Box.stl
+- STLs/2_Fan_Box.stl
+- STLs/3a_Fan_Grid.stl
+- STLs/3b_Fan_Grid_With_Voron_Adapter.stl
+- STLs/4a_Filter_Box_Grid.stl
+- STLs/4b_Filter_Box_Grid_Extract_125mm.stl
+- STLs/4c_Filter_Box_Grid_Extract_100mm.stl
+- STLs/5_Voron_Adapter_1.stl
+- STLs/6_Voron_Adapter_2.stl
+- STLs/7_Join.stl
+title: C17-EXT Filter HEPA Carbon

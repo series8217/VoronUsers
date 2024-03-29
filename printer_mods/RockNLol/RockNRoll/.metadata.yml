@@ -1,0 +1,33 @@
+cad: []
+description: Rockers to roll the printer on its back for easier access to the electronics
+  compartment
+images:
+- images/example_02.jpg
+- images/threaded_inserts_01.jpg
+- images/assembly_braces_02.jpg
+- images/assembly_braces_01.jpg
+- images/example_03.jpg
+- images/assembly_base_plates_03.jpg
+- images/assembly_base_plates_02.jpg
+- images/assembly_base_plates_01.jpg
+- images/example_01.jpg
+- images/example_04.jpg
+- images/support_01.jpg
+- images/assembly_rockers_01.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- STLs/rocker_left.stl
+- STLs/rocker_left_brace.stl
+- STLs/rocker_right.stl
+- STLs/rocker_right_brace.stl
+- STLs/[a]_z_drive_baseplate_a_rnl_mod_r1.stl
+- STLs/[a]_z_drive_baseplate_a_rnl_mod_r2.stl
+- STLs/[a]_z_drive_baseplate_b_rnl_mod_r1.stl
+- STLs/[a]_z_drive_baseplate_b_rnl_mod_r2.stl
+- STLs/6mm_panels/rocker_left_6mm.stl
+- STLs/6mm_panels/rocker_left_brace_6mm.stl
+- STLs/6mm_panels/rocker_right_6mm.stl
+- STLs/6mm_panels/rocker_right_brace_6mm.stl
+title: RockNRoll

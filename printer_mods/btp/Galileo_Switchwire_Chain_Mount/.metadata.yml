@@ -1,0 +1,10 @@
+cad: []
+description: Modified chain mount position to cater for difference with Galileo Clockwork
+images:
+- switchwire_chain.jpeg
+mod_version: 1
+printer_compatibility:
+- VSW
+stl:
+- switchwire_chain.stl
+title: Galileo chain mount (befenybay)

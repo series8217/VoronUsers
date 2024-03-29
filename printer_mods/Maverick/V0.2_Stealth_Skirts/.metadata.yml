@@ -1,0 +1,35 @@
+cad:
+- CAD/V0.2_Stealth_Skirts.step
+- CAD/V0.2_Stealth_Skirts.f3d
+description: Juiced up skirts for the V0.2
+images:
+- Images/skirts_4.png
+- Images/skirts_2.png
+- Images/skirts_3.png
+- Images/skirts_1.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- STLs/3510_Fan_Grill_x2.stl
+- STLs/3510_Side_Skirt_Mid_x2.stl
+- STLs/4010_Fan_Grill_x2.stl
+- STLs/4010_Side_Skirt_Mid_x2.stl
+- STLs/Left_Front_Accent_x1.stl
+- STLs/Left_Front_Foot_x1.stl
+- STLs/Left_Front_Skirt_x1.stl
+- STLs/Left_Rear_Accent_x1.stl
+- STLs/Left_Side_Skirt_A_x1.stl
+- STLs/Left_Side_Skirt_B_x1.stl
+- STLs/Logo_Insert_x2.stl
+- STLs/Mains_Inlet_Foot_x1.stl
+- STLs/Rear_Skirt_x1.stl
+- STLs/Right_Front_Accent_x1.stl
+- STLs/Right_Front_Foot_x1.stl
+- STLs/Right_Front_Skirt_x1.stl
+- STLs/Right_Rear_Accent_x1.stl
+- STLs/Right_Rear_Foot_x1.stl
+- STLs/Right_Side_Skirt_A_x1.stl
+- STLs/Right_Side_Skirt_B_x1.stl
+- STLs/Side_Logo_Insert_x2.stl
+title: V0.2 Stealth Skirts

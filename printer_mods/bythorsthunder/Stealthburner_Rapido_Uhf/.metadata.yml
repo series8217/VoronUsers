@@ -1,0 +1,16 @@
+cad:
+- CAD/Stealth_Rapido_UHF.step
+description: Stealthburner mod for Rapido UHF
+images:
+- IMAGES/Stealth_UHF_Photo_Front.JPG
+- IMAGES/Stealth_UHF_Side.jpg
+- IMAGES/Stealth_UHF.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VSW
+- VT
+stl:
+- STL_FILES/Stealth_Rapido_UHF_Toolhead_Front.stl
+- STL_FILES/[a]_Stealth_Rapido_UHF_Front.stl
+title: Stealthburner Rapido UHF

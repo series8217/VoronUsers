@@ -1,0 +1,12 @@
+cad:
+- RunOutFilament.f3d
+description: Holder for TriangleLab Runout sensor
+images:
+- Photo.png
+mod_version: 1
+printer_compatibility:
+- V2.2
+stl:
+- Holder.stl
+- Key.stl
+title: RunOut Filament Holder

@@ -1,0 +1,14 @@
+cad: 
+- CAD/V0_Electronic_Panel_Skirts.step
+- CAD/V0_Electronic_Panel_Cover.step
+description: A printed cover for v0 electronics. Requires larger printer to print.
+images:
+- example.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- Left_x2.stl
+- Panel.stl
+- Right_x2.stl
+title: V0 Electronics Cover

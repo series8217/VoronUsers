@@ -1,0 +1,14 @@
+cad:
+- FAN_COVER_40_2HOLES.step
+- FAN_COVER_40_4HOLES.step
+description: Different fan covers for 40mm fans
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+stl:
+- Fan_cover_2holes.STL
+- Fan_cover_4holes.STL
+title: Fan Covers

@@ -1,0 +1,18 @@
+cad:
+- CAD/Creative_Live_Camera_Mount.step
+description: A mod to provide a mount for the Creative Live! Camera that mounts on
+  20mm extrusion.
+discord_username: Klest
+images:
+- Images/20231224_211017.jpg
+- Images/20231224_211026.jpg
+- Images/20231224_211032.jpg
+- Images/20231224_211032_2.jpg
+- Images/PartImage.jpg
+mod_version: 1
+printer_compatibility:
+- VT
+- V2.4r2
+stl:
+- STL/CreativeLiveCam.stl
+title: Creative Live! Camera Mount

@@ -1,0 +1,15 @@
+cad:
+- CAD/Mid_Panel_with_cablemanagement.step
+- CAD/Mid_Panel.step
+description: Panel for SKR1.4/1.4 or SKR E3 mini mount
+images:
+- Images/1.jpg
+- Images/2.jpg
+- Images/3.JPG
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- STLs/Mid_Panel_new.stl
+- STLs/Mid_Panel_with_cablemanagement.stl
+title: Mid Panel

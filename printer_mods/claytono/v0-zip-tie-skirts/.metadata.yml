@@ -1,0 +1,14 @@
+cad:
+- V0_Zip_Tie_Skirts.f3d
+- V0_Zip_Tie_Skirts.step
+description: V0 skirts with small loops added along the top to allow zip tyiing cables
+  to them
+images:
+- V0_Zip_Tie_Skirts.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+stl:
+- V0_Left_Skirt-Zip_Tie.stl
+- V0_Right_Skirt-Zip_Tie.stl
+title: V0 Zip Tie Skirts

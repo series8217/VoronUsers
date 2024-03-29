@@ -1,0 +1,18 @@
+cad: []
+description: Covers both the original Phaetus variant as well as the Zodiac one.
+images:
+- front.jpg
+- Dragonfly_BMO_Zodiac.png
+- Dragonfly_BMO_Phaetus.png
+- back.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+stl:
+- Phaetus_Dragonfly_BMO_Back.stl
+- Phaetus_Dragonfly_BMO_Front.stl
+- Zodiac_Dragonfly_BMO_Back.stl
+- Zodiac_Dragonfly_BMO_Front.stl
+title: Phaetus and Zodiac Dragonfly BMO Afterburner toolheads

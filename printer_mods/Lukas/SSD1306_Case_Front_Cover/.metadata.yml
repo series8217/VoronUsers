@@ -1,0 +1,14 @@
+cad:
+- CAD/VoronSSD1306FrontScreen.f3d
+- CAD/VoronSSD1306FrontScreen.step
+description: SSD1306 Mount replacement for Mini12864
+images:
+- images/printed.jpg
+- images/render.PNG
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+stl:
+- STL/SSD1306-Cover.stl
+title: SSD1306 Case Front Cover

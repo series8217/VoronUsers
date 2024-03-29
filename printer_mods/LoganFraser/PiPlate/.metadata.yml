@@ -1,0 +1,20 @@
+cad:
+- PiPlate_v16.f3d
+- PiPlate_v16.step
+description: PiPlate - Raspberry Pi3,4 mounting plate and Skirt Mod for V2.4/Trident
+images:
+- PiPlate.jpg
+- PiPlate2.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+stl:
+- STLs/2.4r2_Skirt_for_PiPlate.stl
+- STLs/2.4_250-300_Skirt_for_PiPlate.stl
+- STLs/2.4_250_Offset_Skirt_for_PiPlate.stl
+- STLs/2.4_350_Skirt_for_PiPlate.stl
+- STLs/Pi3Plate.stl
+- STLs/Pi4Plate.stl
+- STLs/Trident_Skirt_for_PiPlate.stl
+title: PiPlate

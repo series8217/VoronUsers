@@ -1,0 +1,29 @@
+cad:
+- CAD/Wago_3x_221-41x_Angled_Din_Rail_Mount.step
+- CAD/Wago_221-41x_Extrusion_&_Thin_Din_Mount.step
+- CAD/Wago_3x_221-41x_Angled_Din_Rail_Mount.f3d
+- CAD/Wago_221-41x_Extrusion_&_Thin_Din_Mount.f3d
+description: Wago Mounts for Din Rail or 2020 Extrusion mounting.
+images:
+- WagoMounts.png
+- WagoMounts-Extrusion&Din.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VSW
+- VT
+stl:
+- STLs/Din_Mount_Bracket.stl
+- STLs/Wago-3x-221-413_Thin-Din_Rail_Mount.stl
+- STLs/Wago_2x_221-415_Extrusion_Mount.stl
+- STLs/Wago_2x_221-415_Thin_Din_Rail_Mount.stl
+- STLs/Wago_3x_221-412_DIN_Mount.stl
+- STLs/Wago_3x_221-413_DIN_Mount.stl
+- STLs/Wago_3x_221-413_Extrusion_Mount.stl
+- STLs/Wago_3x_221-415_DIN_Mount.stl
+- STLs/Wago_3x_221-415_Extrusion_Mount.stl
+- STLs/Wago_3x_221-415_Skirt_Inlet_Mount.stl
+- STLs/Wago_3x_221-415_Thin_Din_Rail_Mount.stl
+- STLs/Wago_4x_221-412_Extrusion_Mount.stl
+- STLs/Wago_5x_221-412_Extrusion_Mount.stl
+title: WagoMounts
